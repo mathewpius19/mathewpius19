@@ -1,1 +1,13 @@
-I'm currently pursuing an MS in Software Engineering at San Jose State University after spending four years at KPMG building large-scale financial applications for Goldman Sachs. My work has ranged from processing millions of transactions and optimizing data-access architectures to building production diagnostic tooling with MCP. More recently, I've been exploring distributed monitoring, semantic retrieval, and AI-enabled systems through my projects.
+Hi, I’m Mathew 👋
+
+I’m currently pursuing an MS in Software Engineering at San Jose State University after spending four years at KPMG, building large-scale financial applications for Goldman Sachs.
+
+My work has ranged from processing millions of financial transactions and optimizing backend and data-access architectures to building production diagnostic tooling with MCP. More recently, I’ve been exploring distributed systems, observability, semantic retrieval, recommendation systems, and AI agents through my projects.
+
+What I’m interested in
+
+Backend Engineering · Distributed Systems · Infrastructure · Applied AI
+
+More about me
+
+🌐 mathewpius19.github.io
